@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+torch
+scikit-learn
+
+# Optional (for notebooks like ks_pinn.ipynb):
+# deepxde
+# torchdiffeq
+# ipykernel
