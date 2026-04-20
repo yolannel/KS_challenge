@@ -1,0 +1,3 @@
+[submodule "KS_leaderboard"]
+	path = KS_leaderboard
+	url = git@github.com:yolannel/KS_leaderboard.git
